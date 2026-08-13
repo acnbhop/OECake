@@ -1,0 +1,10 @@
+/bin
+/objects
+
+*.vs
+*.vscode
+*.vcxproj.user
+
+*.DS_Store
+*[Dd]esktop.ini
+*[Tt]humbs.db
