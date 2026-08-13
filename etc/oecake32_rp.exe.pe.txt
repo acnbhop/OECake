@@ -1,0 +1,2005 @@
+!This program cannot be run in DOS mode.
+$
+`.rdata
+@.data
+.rsrc
+h4A@
+h4A@
+̋A j
+̋A j
+D$,P
+PXhPRI
+ĀāāāāāĀāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāā
+;ETsE
+;Els
+EHf=
+UlPQRt;
+C4RP
+Md+MP
+Ud+UPP+UL
+Ud+UP
+C0+UL
+ud+uP3
+Eh;ET
+M$VW
+M$RVW
+_DSR
+																																																																																																																											
+QPUSWR
+L$(uVf9N uPf9N0uJf9N@uDf9NPu>f9N`u8f9Npu2
+uOf9F uIf9F0uCf9F@u=f9FPu7f9F`u1f9Fpu+
+uaf9q u[f9q0uUf9q@uOf9qPuIf9q`uCf9qpu=
+Sh`/G
+t3Ht Ht
+ttItSItDIt3
+t9It+
+D倫D仁D仇D仍D
+f=MMt f=IIt
+M$SVW
+GKtBKt7Kt,Kt!Kt
+GKtBKt7Kt,Kt!Kt
+OtgOtFOt%O
+HtmH
+_^][
+OtpOtLOt(O
+FFBBAA
+;uы}0
+OtAOOt
+It-It
+MMu1It'It
+hlMG
+h\OG
+hDOG
+h(OG
+tANNt3
+hdNG
+Crf=
+@YY^_[
+SWtCHt9Ht
+9F u7f9_ru
+tFIt(It
+t.It It
+t4It+It"It
+FLSUP
+F吏F别F吏F养F
+tr9_ tm9_$th
+PDu	j
+YËT$
+YËT$
+YËT$
+YËT$
+鼠	鼬	
+B廠B开B
+B彰B徐B
+B忠B怀B
+null file handler
+Decode: Unknown or wrong format
+BCxImage::Create : width and height must be greater than zero
+CXIMAGE_MAX_MEMORY exceeded
+CxImage::Create can't allocate memory
+ףp=
+
+)@)\
+Mb`?
+0@ffffff
+@Corrupted tiled TIFF file!
+CxImageTIF can't allocate memory
+Unable to allocate TIFF palette
+Too big palette to handle
+Corrupted TIFF file!
+No space for raster buffer
+CxImageTIF can't create image
+Cancelled
+@output dimensions returned
+Error: page not present in TIFF file
+Error encountered while opening TIFF file
+Read Error
+unknown PNG color type
+AFailed to initialize PNG info structure
+Failed to create PNG structure
+1.2.24
+GIF8
+@compression type not supported
+can't allocate memory
+unknown compression
+Error reading BMP info
+Not a BMP
+TIFF IMAGE
+Illegal subdirectory link
+Illegal pointer offset value in EXIF.
+Illegal format code in EXIF dir
+ASCII
+M!%8
+B!=&
+>Undefined rotation value
+Illegally sized directory
+Maximum directory nesting exceeded (corrupt exif header)
+Invalid Exif alignment marker.
+Invalid Exif start (1)
+Incorrect Exif header
+Exif
+No image in jpeg!
+
+could not read the rest of the image
+could not allocate data for entire image
+Premature end of file?
+Could not allocate memory
+椀癮污摩
+ marker
+too many padding bytes
+
+Too many sections in jpg file
+Exif
+too many padding bytes!
+?Application transferred too many scanlines
+Invalid SOS parameters for sequential JPEG
+Corrupt JPEG data: found marker 0x%02x instead of RST%d
+Premature end of JPEG file
+Warning: unknown JFIF revision number %d.%02d
+Corrupt JPEG data: bad Huffman code
+Corrupt JPEG data: premature end of data segment
+Corrupt JPEG data: %u extraneous bytes before marker 0x%02x
+Inconsistent progression sequence for component %d coefficient %d
+Unknown Adobe color transform code %d
+Obtained XMS handle %u
+Freed XMS handle %u
+Unrecognized component IDs %d %d %d, assuming YCbCr
+JFIF extension marker: RGB thumbnail image, length %u
+JFIF extension marker: palette thumbnail image, length %u
+JFIF extension marker: JPEG-compressed thumbnail image, length %u
+Opened temporary file %s
+Closed temporary file %s
+  Ss=%d, Se=%d, Ah=%d, Al=%d
+    Component %d: dc=%d ac=%d
+Start Of Scan: %d components
+Start of Image
+    Component %d: %dhx%dv q=%d
+Start Of Frame 0x%02x: width=%u, height=%u, components=%d
+Smoothing not supported with nonstandard sampling ratios
+RST%d
+At marker 0x%02x, recovery action %d
+Selected %d colors for quantization
+Quantizing to %d colors
+Quantizing to %d = %d*%d*%d colors
+ †††
+ %4u %4u %4u %4u %4u %4u %4u %4u
+Unexpected marker 0x%02x
+Miscellaneous marker 0x%02x, length %u
+    with %d x %d thumbnail image
+JFIF extension marker: type 0x%02x, length %u
+Warning: thumbnail image size does not match data length %u
+JFIF APP0 marker: version %d.%02d, density %dx%d  %d
+ †††
+ %3d %3d %3d %3d %3d %3d %3d %3d
+End Of Image
+Obtained EMS handle %u
+Freed EMS handle %u
+Define Restart Interval %u
+Define Quantization Table %d  precision %d
+Define Huffman Table 0x%02x
+Define Arithmetic Table 0x%02x: 0x%02x
+Unknown APP14 marker (not Adobe), length %u
+Unknown APP0 marker (not JFIF), length %u
+Adobe APP14 marker: version %d, flags 0x%04x 0x%04x, transform %d
+Caution: quantization tables are too coarse for baseline JPEG
+6b  27-Mar-1998
+Copyright (C) 1998, Thomas G. Lane
+Write to XMS failed
+Read from XMS failed
+Image too wide for this implementation
+Virtual array controller messed up
+Unsupported marker type 0x%02x
+Application transferred too few scanlines
+Write failed on temporary file --- out of disk space?
+Seek failed on temporary file
+Read failed on temporary file
+Failed to create temporary file %s
+Invalid JPEG file structure: SOS before SOF
+Invalid JPEG file structure: two SOI markers
+Unsupported JPEG process: SOF type 0x%02x
+Invalid JPEG file structure: missing SOS marker
+Invalid JPEG file structure: two SOF markers
+Cannot quantize to more than %d colors
+Cannot quantize to fewer than %d colors
+Cannot quantize more than %d color components
+Insufficient memory (case %d)
+Not a JPEG file: starts with 0x%02x 0x%02x
+Quantization table 0x%02x was not defined
+JPEG datastream contains no image
+Huffman table 0x%02x was not defined
+Backing store not supported
+Requested feature was omitted at compile time
+Not implemented yet
+Invalid color quantization mode change
+Scan script does not transmit all data
+Cannot transcode due to multiple use of quantization table %d
+Premature end of input file
+Empty input file
+Maximum supported image dimension is %u pixels
+Missing Huffman code table entry
+Huffman code size table overflow
+Fractional sampling not implemented yet
+Output file write error --- out of disk space?
+Input file read error
+Didn't expect more than one scan
+Write to EMS failed
+Read from EMS failed
+Empty JPEG image (DNL not supported)
+Bogus DQT index %d
+Bogus DHT index %d
+Bogus DAC value 0x%x
+Bogus DAC index %d
+Unsupported color conversion request
+Too many color components: %d, max %d
+CCIR601 sampling not implemented yet
+Suspension not allowed here
+Buffer passed to JPEG library is too small
+Bogus virtual array access
+JPEG parameter struct mismatch: library thinks size is %u, caller expects %u
+Improper call to JPEG library in state %d
+Invalid scan script at entry %d
+Bogus sampling factors
+Invalid progressive parameters at scan script entry %d
+Invalid progressive parameters Ss=%d Se=%d Ah=%d Al=%d
+Unsupported JPEG data precision %d
+Invalid memory pool code %d
+Sampling factors too large for interleaved scan
+Wrong JPEG library version: library is %d, caller expects %d
+Bogus marker length
+Bogus JPEG colorspace
+Bogus input colorspace
+Bogus Huffman table definition
+IDCT output block size %d not supported
+DCT coefficient out of range
+Invalid component ID %d in SOS
+Bogus buffer control mode
+MAX_ALLOC_CHUNK is wrong, please fix
+ALIGN_TYPE is wrong, please fix
+Sorry, there are legal restrictions on arithmetic coding
+Bogus message code %d
+Āąāā
+ăāāāā
+$3br
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+	#3R
+&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz
+%ld%c
+JPEGMEM
+sAmTb
+BKbhTb~XBK!;
+A!;I2
+sAmTb
+BKbhTb~XBK!;
+A!;I2
+?TIFFWriteScanline
+TIFFWriteEncodedStrip
+TIFFWriteRawStrip
+TIFFWriteEncodedTile
+TIFFWriteRawTile
+TIFFWriteBufferSetup
+TIFFAppendToStrip
+strip
+tile
+%s: Write error at scanline %lu
+%s: Seek error at scanline %lu
+%u: Sample out of range, max %u
+TIFFAdvanceDirectory
+TIFFUnlinkDirectory
+TIFFSetField
+%s: Invalid InkNames value; expecting %d names, found %d
+%f: Bad value for "%s"
+%s: Invalid %stag "%s" (not supported by codec)
+pseduo-
+%ld: Bad value for "%s"
+Sorry, cannot nest SubIFDs
+Nonstandard tile length %d, convert file
+Nonstandard tile width %d, convert file
+%d: Bad value for "%s"
+Bad value %ld for "%s" tag ignored
+%s: Cannot modify tag "%s" while writing
+%s: Unknown %stag %u
+pseudo-
+TIFFGetField
+%s: Error fetching directory count
+%s: Error fetching directory link
+Error writing directory link
+TIFFReadRawStrip
+TIFFFillStrip
+TIFFReadRawTile
+TIFFFillTile
+TIFFReadBufferSetup
+%s: Read error at scanline %lu, strip %lu; got %lu bytes, expected %lu
+%s: Read error at scanline %lu; got %lu bytes, expected %lu
+%s: Seek error at scanline %lu, strip %lu
+%s: Read error at row %ld, col %ld, tile %ld; got %lu bytes, expected %lu
+%s: Read error at row %ld, col %ld; got %lu bytes, expected %lu
+%s: Seek error at row %ld, col %ld, tile %ld
+%s: No space for data buffer at scanline %ld
+Can not read scanlines from a tiled image
+Can not read tiles from a stripped image
+File not open for reading
+%lu: Invalid strip byte count, strip %lu
+%s: Data buffer too small to hold strip %lu
+%s: Read error on strip %lu; got %lu bytes, expected %lu
+%s: Data buffer too small to hold tile %ld
+%lu: Invalid tile byte count, tile %lu
+%ld: Strip out of range, max %ld
+%ld: Tile out of range, max %ld
+Sample %d out of range, max %u
+Depth %ld out of range, max %lu
+Row %ld out of range, max %lu
+Col %ld out of range, max %lu
+TIFFClientOpen
+"%s": Bad mode
+Can't open a compressed TIFF file with compression for update.
+Not a TIFF file, bad version number %d (0x%x)
+Not a TIFF file, bad magic number %d (0x%x)
+Error writing TIFF header
+Cannot read TIFF header
+%s: Out of memory (TIFF structure)
+PhotometricInterpretation
+Sorry, can not handle YCbCr images with %s=%d
+Sorry, LogL data must have %s=%d
+Sorry, can not handle LogLuv images with %s=%d
+Planarconfiguration
+Sorry, LogLuv data must have %s=%d or %d
+Compression
+Sorry, can not handle image with %s=%d
+Sorry, can not handle separated image with %s=%d
+InkSet
+Sorry, can not handle RGB image with %s=%d
+Color channels
+Sorry, can not handle contiguous data with %s=%d, and %s=%d and Bits/Sample=%d
+Samples/pixel
+Missing needed %s tag
+No "put" routine setupl; probably can not handle image format
+No "get" routine setup
+using bottom-left orientation
+using top-left orientation
+No space for tile buffer
+No space for strip buffer
+@No space for YCbCr->RGB conversion state
+No space for B&W mapping table
+No space for photometric conversion table
+No space for Palette mapping table
+Assuming 8-bit colormap
+Out of memory for colormap copy
+Missing required "Colormap" tag
+>TIFFRewriteDirectory
+TIFFLinkDirectory
+Error writing data for field "%s"
+Error fetching directory count
+Error fetching directory link
+%s: Error writing SubIFD directory link
+M"%s": Information lost writing value (%g) as (unsigned) RATIONAL
+Error writing directory contents
+Error writing directory count
+Cannot write directory, out of space
+Error flushing data before directory write
+Error post-encoding before directory write
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+StoNits
+ICC Profile
+Photoshop
+RichTIFFIPTC
+Copyright
+MatrixWorldToCamera
+MatrixWorldToScreen
+FieldOfViewCotan
+TextureWrapModes
+TextureFormat
+ImageFullLength
+ImageFullWidth
+TileDepth
+ImageDepth
+DataType
+Matteing
+ReferenceBlackWhite
+YCbCrPositioning
+YCbCrSubsampling
+YCbCrCoefficients
+SMaxSampleValue
+SMinSampleValue
+SampleFormat
+ExtraSamples
+TargetPrinter
+DotRange
+NumberOfInks
+InkNames
+SubIFD
+TileByteCounts
+TileOffsets
+TileLength
+TileWidth
+HalftoneHints
+ColorMap
+PrimaryChromaticities
+WhitePoint
+HostComputer
+Artist
+DateTime
+Software
+TransferFunction
+ColorResponseUnit
+PageNumber
+ResolutionUnit
+GrayResponseCurve
+GrayResponseUnit
+FreeByteCounts
+FreeOffsets
+YPosition
+XPosition
+PageName
+PlanarConfiguration
+YResolution
+XResolution
+MaxSampleValue
+MinSampleValue
+StripByteCounts
+RowsPerStrip
+SamplesPerPixel
+Orientation
+StripOffsets
+Model
+Make
+ImageDescription
+DocumentName
+FillOrder
+CellLength
+CellWidth
+Threshholding
+PhotometricInterpretation
+BitsPerSample
+ImageLength
+ImageWidth
+OldSubfileType
+SubfileType
+TIFFFieldWithTag
+Internal error, unknown tag 0x%x
+Compression algorithm does not support random access
+Compression scheme %u %s encoding is not implemented
+%s %s encoding is not implemented
+%s %s encoding is no longer implemented due to Unisys patent enforcement
+scanline
+Compression scheme %u %s decoding is not implemented
+%s %s decoding is not implemented
+to fetch tag value
+for "ReferenceBlackWhite" array
+No space %s
+for "StripByteCounts" array
+TIFF directory is missing required "%s" field
+incorrect count for field "%s" (%lu, expecting %lu); tag ignored
+Error fetching data for field "%s"
+%s: Rational with zero denominator (num = %lu)
+to fetch array of rationals
+Cannot read TIFF_ANY type %d for field "%s"
+Cannot handle different per-sample values for field "%s"
+to fetch strip tag
+for strip array
+for chopped "StripOffsets" array
+for chopped "StripByteCounts" array
+Bogus "%s" field, ignoring and calculating from imagelength
+TIFF directory is missing required "%s" field, calculating from imagelength
+Colormap
+to read "TransferFunction" tag
+unknown field with tag %d (0x%x) ignored
+wrong data type %d for "%s"; tag ignored
+椀癮污摩
+ TIFF directory; tags are not sorted in ascending order
+Can not read TIFF directory
+to read TIFF directory
+Can not read TIFF directory count
+Seek error accessing TIFF directory
+SGILog24
+SGILog
+PixarLog
+AdobeDeflate
+Deflate
+ISO JBIG
+CCITT Group 4
+CCITT Group 3
+CCITT RLE/W
+CCITT RLE
+Old-style JPEG
+JPEG
+NeXT
+ThunderScan
+PackBits
+None
+%s compression support is not configured
+SGILogEncode
+SGILogDataFmt
+LogL16InitState
+LogLuvInitState
+TIFFInitSGILog
+LogL16Decode: Not enough data at row %d (short %d pixels)
+LogLuvDecode24: Not enough data at row %d (short %d pixels)
+LogLuvDecode32: Not enough data at row %d (short %d pixels)
+B.F@
+B.f?
+?%s: No space for SGILog translation buffer
+No support for converting user data format to LogL
+No support for converting user data format to LogLuv
+SGILog compression cannot handle non-contiguous data
+Inappropriate photometric interpretation %d for SGILog compression; %s
+must be either LogLUV or LogL
+SGILog compression supported only for %s, or raw data
+XYZ, Luv
+Y, L
+Unknown data format %d for LogLuv compression
+Unknown encoding %d for LogLuv compression
+%s: No space for LogLuv state block
+ZIPSetupDecode
+ZIPDecode
+ZIPSetupEncode
+ZIPEncode
+ZIPPostEncode
+ZIPVSetField
+%s: %s
+1.2.3
+%s: zlib error: %s
+%s: Not enough data at scanline %d (short %d bytes)
+%s: Decoding error at scanline %d, %s
+%s: Encoder error: %s
+TIFFInitZIP
+No space for ZIP state block
+Group4Options
+Group3Options
+FaxRecvTime
+FaxSubAddress
+FaxRecvParams
+ConsecutiveBadFaxLines
+CleanFaxData
+BadFaxLines
+FaxFillFunc
+FaxMode
+L̀M̀r
+sπt
+uрv
+SՀTրU
+[ـd
+Fax3Decode1D
+Fax3Decode2D
+̄̃̃̃̃̃̃̃
+Ăāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāā
+Āāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāā
+̂̃̃̃̃̃̃̃Ѓ
+Fax4Decode
+Fax3DecodeRLE
+%s: Bad code word at scanline %d (x %lu)
+%s: Uncompressed data (not supported) at scanline %d (x %lu)
+%s: %s at scanline %d (got %lu, expected %lu)
+Line length mismatch
+Premature EOL
+%s: Premature EOF at scanline %d (x %lu)
+Fax3SetupState
+%s: No space for Group 3/4 reference line
+%s: No space for Group 3/4 run arrays
+Bits/sample must be 1 for Group 3/4 encoding/decoding
+C  Fax Receive Time: %lu secs
+
+  Fax SubAddress: %s
+
+  Fax Receive Parameters: %08lx
+
+  Consecutive Bad Fax Lines: %lu
+
+  Bad Fax Lines: %lu
+
+ (%u = 0x%x)
+
+ clean
+ receiver regenerated
+ uncorrected errors
+  Fax Data:
+ (%lu = 0x%lx)
+
+%suncompressed data
+%sEOL padding
+%s2-d encoding
+  Group 3 Options:
+  Group 4 Options:
+TIFFInitCCITTFax3
+%s: No space for state block
+JPEGColorMode
+WANG PageControl
+JPEGACTables
+JPEGDCTables
+JPEGQTables
+JPEGPointTransforms
+JPEGLosslessPredictors
+JPEGRestartInterval
+JPEGInterchangeFormatLength
+JPEGInterchangeFormat
+JPEGProc
+JPEGTables
+JPEG Library
+%u BitsPerSample not allowed for JPEG
+fractional scan line not read
+No space for JPEGTables
+OJPEGSetupDecode
+Improper JPEG sampling factors
+OJPEGPreDecode
+%s compression is not supported
+Improper JPEG strip/tile size
+Improper JPEG data precision
+Improper JPEG component count
+Tiled Wang image not supported
+Huffman table too big
+Too many Huffman tables
+Too many quantization tables
+Does not support lossless Huffman coding
+Unknown JPEG process
+Cannot define default reference black and white levels
+Wang Labs
+  JPEG Table Data: <present>, %lu bytes
+
+TIFFInitOJPEG
+No space for JPEG state block
+Cannot read file
+Cannot allocate file buffer
+JPEGPreDecode
+JPEGSetupEncode
+JPEGPreEncode
+JPEGLib
+TIFFjpeg_tables_dest
+No space for JPEGTables
+JPEGSetupDecode
+Bogus JPEGTables field
+RowsPerStrip must be multiple of %d for JPEG
+JPEG tile width must be multiple of %d
+JPEG tile height must be multiple of %d
+BitsPerSample %d not allowed for JPEG
+PhotometricInterpretation %d not allowed for JPEG
+fractional scanline discarded
+  JPEG Tables: (%lu bytes)
+
+Strip/tile too large for JPEG
+TIFFInitJPEG
+NeXTDecode: Not enough data for scanline %ld
+ThunderDecode: %s data at scanline %ld (%lu != %lu)
+Too much
+Not enough
+PackBitsDecode: Not enough data for scanline %ld
+PackBitsDecode: discarding %d bytes to avoid buffer overrun
+ LZWSetupDecode
+LZWSetupEncode
+No space for LZW code table
+LZWDecode: Bogus encoding, loop in the code table; scanline %d
+LZWDecode: Not enough data at scanline %d (short %d bytes)
+LZWDecode: Strip %d not terminated with EOI code
+LZWDecodeCompat: Not enough data at scanline %d (short %d bytes)
+No space for LZW hash table
+Old-style LZW codes, convert file
+TIFFInitLZW
+No space for LZW state block
+DumpModeDecode: Not enough data for scanline %d
+Predictor
+Horizontal differencing "Predictor" not supported with %d-bit samples
+"Predictor" value %d not supported
+%u (0x%x)
+
+none 
+horizontal differencing 
+  Predictor: 
+0123456789ABCDEFlibpng error: %s
+
+libpng error: %s, offset=%d
+
+libpng error no. %s: %s
+
+libpng warning: %s
+
+libpng warning no. %s: %s
+
+Potential overflow in png_zalloc()
+Unknown zlib error
+zlib version error
+zlib memory error
+Incompatible libpng version in application and library
+Application  is  running with png.c from libpng-%.20s
+Application was compiled with png.h from libpng-%.20s
+Missing PLTE before IDAT
+Missing IHDR before IDAT
+PNG file corrupted by ASCII conversion
+Not a PNG file
+Extra compressed data
+Decompression error
+Not enough image data
+Invalid attempt to read row data
+Too many IDAT's found
+ 0@P`p
+!1AQaq
+"2BRbr
+#3CScs
+$4DTdt
+%5EUeu
+&6FVfv
+'7GWgw
+(8HXhx
+)9IYiy
+*:JZjz
++;K[k{
+,<L\l|
+-=M]m}
+.>N^n~
+/?O_o
+Call to NULL read function
+same structure.  Resetting write_data_fn to NULL.
+It's an error to set both read_data_fn and write_data_fn in the 
+MNG features are not allowed in a PNG datastream
+Ignoring attempt to set negative chromaticity value
+Ignoring attempt to set chromaticity value exceeding 21474.83
+@Ignoring attempt to set all-zero chromaticity values
+Setting gamma=0
+Limiting gamma to 21474.83
+Setting negative gamma to zero
+Invalid palette size, hIST allocation skipped.
+Insufficient memory for hIST chunk data.
+Invalid filter method in IHDR
+Unknown filter method in IHDR
+Unknown compression method in IHDR
+Unknown interlace method in IHDR
+Invalid color type/bit depth combination in IHDR
+Invalid color type in IHDR
+Invalid bit depth in IHDR
+Width is too large for libpng to process pixels
+Invalid image size in IHDR
+image size exceeds user limits in IHDR
+Image width or height is zero in IHDR
+Insufficient memory for pCAL parameter.
+Insufficient memory for pCAL params.
+Insufficient memory for pCAL units.
+Insufficient memory for pCAL purpose.
+Invalid palette length
+?Insufficient memory to process iCCP profile.
+Insufficient memory to process iCCP chunk.
+iTXt chunk not supported.
+Out of memory while processing sPLT chunk
+No memory for sPLT palettes.
+Out of memory while processing unknown chunk.
+Out of Memory!
+Error decoding compressed text
+Unknown zTXt compression type %d
+Not enough memory for text.
+Incomplete compressed datastream in %s chunk
+Data error in compressed datastream in %s chunk
+Buffer error in compressed datastream in %s chunk
+Not enough memory to decompress chunk
+Not enough memory to decompress chunk..
+Not enough memory to decompress chunk.
+椀癮污摩
+ chunk type
+Ignoring bad adaptive filter type
+Row has too many bytes to allocate in memory.
+PNG unsigned integer out of range.
+CRC error
+Invalid IHDR chunk
+Out of place IHDR
+Truncating incorrect info tRNS chunk length
+Truncating incorrect tRNS chunk length
+Invalid palette chunk
+Ignoring PLTE chunk in grayscale PNG
+Duplicate PLTE chunk
+Invalid PLTE after IDAT
+Missing IHDR before PLTE
+Incorrect IEND chunk length
+No image in file
+gamma = (%d/100000)
+
+Ignoring incorrect gAMA value when sRGB is also present
+Ignoring gAMA chunk with gamma=0
+Incorrect gAMA chunk length
+Duplicate gAMA chunk
+Out of place gAMA chunk
+Invalid gAMA after IDAT
+Missing IHDR before gAMA
+Incorrect sBIT chunk length
+Duplicate sBIT chunk
+Out of place sBIT chunk
+Invalid sBIT after IDAT
+Missing IHDR before sBIT
+Invalid cHRM white point
+gx=%f, gy=%f, bx=%f, by=%f
+
+wx=%f, wy=%f, rx=%f, ry=%f
+
+Ignoring incorrect cHRM value when sRGB is also present
+Invalid cHRM blue point
+Invalid cHRM green point
+Invalid cHRM red point
+Incorrect cHRM chunk length
+Duplicate cHRM chunk
+Missing PLTE before cHRM
+Invalid cHRM after IDAT
+Missing IHDR before cHRM
+incorrect gamma=(%d/100000)
+
+Unknown sRGB intent
+Incorrect sRGB chunk length
+Duplicate sRGB chunk
+Out of place sRGB chunk
+Invalid sRGB after IDAT
+Missing IHDR before sRGB
+Profile size field missing from iCCP chunk
+Ignoring truncated iCCP profile.
+Ignoring nonzero compression type in iCCP chunk
+Malformed iCCP chunk
+Duplicate iCCP chunk
+Out of place iCCP chunk
+Invalid iCCP after IDAT
+Missing IHDR before iCCP
+sPLT chunk requires too much memory
+sPLT chunk too long
+sPLT chunk has bad length
+malformed sPLT chunk
+Invalid sPLT after IDAT
+Missing IHDR before sPLT
+tRNS chunk not allowed with alpha channel
+Zero length tRNS chunk
+Missing PLTE before tRNS
+Duplicate tRNS chunk
+Invalid tRNS after IDAT
+Incorrect tRNS chunk length
+Missing IHDR before tRNS
+Incorrect bKGD chunk index value
+Incorrect bKGD chunk length
+Duplicate bKGD chunk
+Missing PLTE before bKGD
+Invalid bKGD after IDAT
+Missing IHDR before bKGD
+Incorrect hIST chunk length
+Duplicate hIST chunk
+Missing PLTE before hIST
+Invalid hIST after IDAT
+Missing IHDR before hIST
+Duplicate pHYs chunk
+Invalid pHYs after IDAT
+Incorrect pHYs chunk length
+Missing IHDR before pHYs
+Duplicate oFFs chunk
+Invalid oFFs after IDAT
+Incorrect oFFs chunk length
+Missing IHDR before oFFs
+No memory for pCAL params.
+Unrecognized equation type for pCAL chunk
+Invalid pCAL parameters for equation type
+Invalid pCAL data
+Duplicate pCAL chunk
+Invalid pCAL after IDAT
+No memory for pCAL purpose.
+Missing IHDR before pCAL
+Invalid sCAL data
+malformed height string in sCAL chunk
+Truncated sCAL chunk
+malformed width string in sCAL chunk
+Duplicate sCAL chunk
+Invalid sCAL after IDAT
+Out of memory while processing sCAL chunk
+Missing IHDR before sCAL
+Duplicate tIME chunk
+Incorrect tIME chunk length
+Out of place tIME chunk
+Insufficient memory to process text chunk.
+Not enough memory to process text chunk.
+No memory to process text chunk.
+Missing IHDR before tEXt
+Insufficient memory to store zTXt chunk.
+Not enough memory to process zTXt chunk.
+Unknown compression type in zTXt chunk
+Truncated zTXt chunk
+Out of memory processing zTXt chunk.
+Missing IHDR before zTXt
+error in user chunk
+unknown critical chunk
+Extra compression data
+Extra compressed data.
+Decompression Error
+ư>png_do_dither returned rowbytes=0
+png_do_rgb_to_gray found nongray pixel
+Uninitialized row
+NULL row buffer for row %ld, pass %d
+incorrect length check
+incorrect data check
+椀癮污摩
+ distance too far back
+椀癮污摩
+ distance code
+椀癮污摩
+ literal/length code
+椀癮污摩
+ distances set
+椀癮污摩
+ bit length repeat
+椀癮污摩
+ literal/lengths set
+too many length or distance symbols
+椀癮污摩
+ code lengths set
+椀癮污摩
+ stored block lengths
+椀癮污摩
+ block type
+header crc mismatch
+unknown header flags set
+incorrect header check
+椀癮污摩眠
+indow size
+unknown compression method
+ deflate 1.2.3 Copyright 1995-2005 Jean-loup Gailly 
+F ĂĂ
+1.2.3
+ n;^
+Qkkbal
+3_L
+
+>jm
+i]Wb
+9a&g
+MGiI
+^GP~
+b;!l
+V_:X1:
+NJ2"v
+O*9y]
+fu`z
+/yQA
+&]|v
+散I{
+incompatible version
+buffer error
+insufficient memory
+data error
+stream error
+file error
+stream end
+need dictionary
+ inflate 1.2.3 Copyright 1995-2005 Mark Adler 
+#+3;CScs
+ကကကကကကကက
+!1Aa
+āĂăĄĆĈČĐĘ
+ကကကက
+	S	œ	
+	s	ų	
+	+	ī	
+	k	ū	
+	[	ś	
+	{	Ż	
+	7	ķ	
+	/	į	
+	o	ů	
+	_	ş	
+	?	Ŀ	
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎฎ
+		
+
+
+
+Delete
+NoRemove
+ForceRemove
+CMainFrame
+Basic Menu
+OE-CAKE+
+Points
+Crosses
+Circles
+Blurred Circles
+Blob
+Blob and Texture
+Shader
+bad allocation
+%d/%d/%d
+OE-CAKE!
+B
+This message is in error, contact BlueAmulet#0168 on Discord.
+Local AppWizard-Generated Applications
+F현F헬F
+COECakeDoc
+COECakeView
+.oec
+Untitled
+@匐@匠@
+@占@印@
+@叠@台@
+@因@困@
+@地@址@坐@坠@
+@宠@宰@
+@峠@峰@
+@开@弐@张@
+@新@曰@
+@汐@池@
+@満@源@
+@潰@澀@激@
+@犠@狠@
+time
+timeStep
+scale
+timeStepsPerFrame
+framesPerSecond
+pauseFlag
+randSeed
+gravityFlag
+gravityAcceleration
+gravityAmplification
+gravityAngle
+boundsFlag
+boundsThickness
+boundsLeft
+boundsRight
+boundsBottom
+boundsTop
+boundsRadius
+standardDistance
+standardDensity
+maxSpeed
+pressureCoefficient
+repulsionCoefficient
+dampingFlag
+dampingCoefficient
+staticPressureFlag
+staticPressureCoefficient
+staticPressureIteration
+staticMaxPressure
+springCoefficient
+springIteration
+elasticCoefficient
+elasticIteration
+mochiElasticityCoefficient
+mochiSpringCoefficient
+mochiIteration
+viscosityCoefficient
+viscosityIteration
+surfaceTensionCoefficient
+surfacePressureCoefficient
+surfaceTensionIteration
+powderSpringCoefficient
+powderDampingCoefficient
+powderFrictionCoefficient
+powderLightProbability
+powderExtinguishProbability
+powderExplosionCoefficient
+brittlenessCoefficient
+jetCoefficient
+fuelLightProbability
+fuelExtinguishProbability
+upCoefficient
+downCoefficient
+yukiSpringCoefficient
+yukiMeltingProbability
+resistanceFlag
+resistanceCoefficient
+fireFlag
+fireProbability
+fireLife
+fireBuoyancyCoefficient
+splashFlag
+splashProbability
+splashExpansion
+splashMinLife
+bubbleFlag
+bubbleProbability
+bubbleLife
+bubbleBuoyancyCoefficient
+pouringFlag
+pouringRainFlag
+pouringLocation
+pouringThickness
+pouringVelocity
+pouringTimer
+pouringMaterial
+pouringLayer
+clearFlag
+clearColorRed
+clearColorBlue
+clearColorGreen
+clearColorAlpha
+mouseRadius
+mouseDelay
+mouseForce
+lineWidth
+usersCharge
+usersMaxCharge
+usersSpeedX
+usersSpeedY
+usersForceX
+usersForceY
+usersX
+usersY
+viewWidth
+viewHeight
+scrollFlag
+scrollX
+scrollY
+scrollAngle
+colorFlag
+renderMode
+aerated
+brittle
+cold
+dense
+elastic
+fuel
+gaseous
+inflow
+kome
+light
+mochi
+novel
+outflow
+powder
+aqua
+rigid
+spring
+tensile
+users
+viscous
+wall
+axial
+yuki
+zombie
+nextMaterial
+nextInfo
+nextLayer
+nextColor
+clearColor
+clear
+load
+color
+countParticles
+countNeighbors
+椀癮污摩
+ map/set<T> iterator
+deque<T> too long
+vector<T> too long
+map/set<T> too long
+Jul 14 2008
+# OctaveEngine Casual (
+version 2
+
+foreground 
+background 
+onSimulate
+
+onRender
+
+texture 
+foreground
+background
+onSimulate
+onRender
+texture
+version
+uniform sampler2D solidTexture;uniform sampler2D liquidTexture;uniform sampler2D backgroundTexture;const vec2 lightSource = vec2(-0.1,-0.7);const float refraction = 0.2;uniform vec2 deltaX;uniform vec2 deltaY;void main() {vec2 st = gl_TexCoord[0].st;gl_FragColor = texture2D(backgroundTexture,st);vec2 normal = vec2((texture2D(liquidTexture,st+deltaX)-texture2D(liquidTexture,st-deltaX)).a,(texture2D(liquidTexture,st+deltaY)-texture2D(liquidTexture,st-deltaY)).a);vec4 backgroundColor = texture2D(backgroundTexture,st+refraction*normal);vec4 transparentColor = texture2D(liquidTexture,st);transparentColor.rgb *= mix(vec3(1),backgroundColor.rgb,0.7);gl_FragColor = mix(gl_FragColor,transparentColor,smoothstep(0.7,1.0,transparentColor.a));vec4 blobColor = texture2D(solidTexture,st);blobColor.rgb *= 1.0+dot(normal,lightSource);gl_FragColor = mix(gl_FragColor,blobColor,smoothstep(0.7,1.0,blobColor.a));}
+OpenGL error: 
+solidTexture
+liquidTexture
+backgroundTexture
+deltaX
+deltaY
+false
+true
+null
+.bmp
+.tiff
+.tif
+B曰B最B
+?333333
+?333333
+?ffffff
+?333333
+?333?
+zD
+ף;
+8
+ף<
+B耀B耀>
+RSDS
+g:\OctaveEngine\Internal\Project\Windows\OECake110b\OECake.pdb
+独I狀I
+鼠	鼬	
+glFinish
+glGetIntegerv
+glClear
+glOrtho
+glViewport
+wglGetCurrentDC
+glScalef
+glLoadIdentity
+glGetDoublev
+wglMakeCurrent
+wglCreateContext
+glBegin
+glDeleteLists
+glAlphaFunc
+glVertex2f
+glTexCoord2f
+glPushMatrix
+glClearColor
+glMultMatrixf
+glTranslatef
+glColor3f
+glCallList
+glGetError
+glRotated
+glPointSize
+glEndList
+glColor4ub
+glNewList
+glColor4f
+glPolygonMode
+glBlendFunc
+glMatrixMode
+glEnable
+glGenLists
+glEnd
+glPopAttrib
+glDisable
+glRectf
+glLineWidth
+glPopMatrix
+glPushAttrib
+glBindTexture
+glTexImage2D
+glCopyTexSubImage2D
+glDeleteTextures
+glTexParameteri
+glGenTextures
+OPENGL32.dll
+gluUnProject
+gluErrorString
+gluScaleImage
+GLU32.dll
+glewInit
+__glewActiveTexture
+__glewUniform4f
+__glewGetUniformLocation
+__glewUniform2i
+__glewLinkProgram
+__glewCompileShader
+__glewUniform4i
+__glewGetProgramInfoLog
+__glewUniform1f
+__glewUniform3f
+__glewCreateProgram
+__glewDeleteProgram
+__glewUniform1i
+__glewUniform2f
+__glewDetachShader
+__glewDeleteShader
+__glewCreateShader
+__glewUseProgram
+弄束敬卷慨
+derSource
+__glewUniform3i
+__glewAttachShader
+__glewGetShaderInfoLog
+glew32.dll
+MFC80.DLL
+calloc
+malloc
+free
+sprintf
+strncpy
+realloc
+弃異敲慣
+_invalid_parameter_noinfo
+??1exception@std@@UAE@XZ
+??0exception@std@@QAE@XZ
+??0exception@std@@QAE@ABQBD@Z
+??0exception@std@@QAE@ABV01@@Z
+ceil
+memmove_s
+?what@exception@std@@UBEPBDXZ
+strtod
+atoi
+fputc
+fflush
+feof
+ftell
+fclose
+getc
+fgets
+fopen
+ferror
+fwrite
+fscanf
+fseek
+fread
+atof
+memcpy
+__CxxFrameHandler3
+floor
+memset
+_CIpow
+_CxxThrowException
+longjmp
+_setjmp3
+__CxxLongjmpUnwind
+strncmp
+_CIsqrt
+_CIcos
+_CIsin
+ldiv
+_CIatan2
+_CIlog
+isprint
+_CIexp
+printf
+exit
+fprintf
+__iob_func
+sscanf
+getenv
+strlen
+strcpy
+qsort
+rand
+sqrt
+fabs
+atan2
+strstr
+_snprintf
+abort
+MSVCR80.dll
+_unlock
+__dllonexit
+_encode_pointer
+_lock
+_onexit
+_decode_pointer
+?terminate@@YAXXZ
+_amsg_exit
+__getmainargs
+_cexit
+_exit
+_XcptFilter
+_ismbblead
+_acmdln
+_initterm
+_initterm_e
+_configthreadlocale
+__setusermatherr
+_adjust_fdiv
+__p__commode
+__p__fmode
+__set_app_type
+_except_handler4_common
+?_type_info_dtor_internal_method@type_info@@QAEXXZ
+_crt_debugger_hook
+_invoke_watson
+_controlfp_s
+InterlockedExchange
+GetLocalTime
+SetCurrentDirectoryA
+Sleep
+InterlockedCompareExchange
+GetStartupInfoA
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+IsDebuggerPresent
+QueryPerformanceCounter
+GetTickCount
+GetCurrentThreadId
+GetCurrentProcessId
+GetSystemTimeAsFileTime
+KERNEL32.dll
+SendMessageA
+MessageBoxA
+EnableWindow
+UpdateWindow
+ReleaseCapture
+GetDC
+SetCapture
+GetWindowRect
+USER32.dll
+SwapBuffers
+ChoosePixelFormat
+SetPixelFormat
+DescribePixelFormat
+GDI32.dll
+DragQueryPoint
+DragQueryFileA
+SHELL32.dll
+InitCommonControlsEx
+COMCTL32.dll
+??1locale@std@@QAE@XZ
+??0locale@std@@QAE@PBDH@Z
+??0locale@std@@QAE@ABV01@0H@Z
+?empty@locale@std@@SA?AV12@XZ
+?global@locale@std@@SA?AV12@ABV12@@Z
+?classic@locale@std@@SAABV12@XZ
+?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ
+?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHPBDH@Z
+?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEXXZ
+?cerr@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A
+?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z
+?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ
+?uncaught_exception@std@@YA_NXZ
+?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEXXZ
+?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z
+??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV01@@Z
+??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBD@Z
+??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+??$?8DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@PBD@Z
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@AAH@Z
+??$getline@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@YAAAV?$basic_istream@DU?$char_traits@D@std@@@0@AAV10@AAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@@Z
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@AA_N@Z
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAVios_base@1@AAV21@@Z@Z
+??$?5DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YAAAV?$basic_istream@DU?$char_traits@D@std@@@0@AAV10@AAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@@Z
+??Y?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@ABV01@@Z
+??0?$basic_ofstream@DU?$char_traits@D@std@@@std@@QAE@PBDHH@Z
+??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ
+??0?$basic_ifstream@DU?$char_traits@D@std@@@std@@QAE@PBDHH@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@M@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@I@Z
+??_D?$basic_ifstream@DU?$char_traits@D@std@@@std@@QAEXXZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@H@Z
+??_D?$basic_ofstream@DU?$char_traits@D@std@@@std@@QAEXXZ
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@_N@Z
+??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAVios_base@1@AAV21@@Z@Z
+?ignore@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@HH@Z
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@AAM@Z
+??5?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV01@AAI@Z
+?seekg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@V?$fpos@H@2@@Z
+??4?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@PBD@Z
+
+?read@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@PADH@Z
+MSVCP80.dll
+异票潰t
+_setmbcp
+GetACP
+GetLocaleInfoA
+GetThreadLocale
+GetVersionExA
+	런	렇	
+OECake.exe
+??0CxFile@@QAE@ABV0@@Z
+??0CxFile@@QAE@XZ
+??0CxIOFile@@QAE@ABV0@@Z
+??0CxIOFile@@QAE@PAU_iobuf@@@Z
+??0CxMemFile@@QAE@ABV0@@Z
+??1CxFile@@UAE@XZ
+??1CxIOFile@@UAE@XZ
+??1CxImage@@UAE@XZ
+??4CxFile@@QAEAAV0@ABV0@@Z
+??4CxIOFile@@QAEAAV0@ABV0@@Z
+??4CxMemFile@@QAEAAV0@ABV0@@Z
+??_7CxFile@@6B@
+??_7CxIOFile@@6B@
+??_7CxImage@@6B@
+??_7CxMemFile@@6B@
+??_FCxIOFile@@QAEXXZ
+??_FCxImage@@QAEXXZ
+??_FCxMemFile@@QAEXXZ
+??_OCxImage@@QAEXAAV0@@Z
+?Close@CxIOFile@@UAE_NXZ
+?Eof@CxIOFile@@UAE_NXZ
+?Error@CxIOFile@@UAEJXZ
+?Flush@CxIOFile@@UAE_NXZ
+?GetC@CxIOFile@@UAEJXZ
+?GetS@CxIOFile@@UAEPADPADH@Z
+?Open@CxIOFile@@QAE_NPBD0@Z
+?PutC@CxFile@@UAE_NE@Z
+?PutC@CxIOFile@@UAE_NE@Z
+?Read@CxIOFile@@UAEIPAXII@Z
+?Scanf@CxIOFile@@UAEJPBDPAX@Z
+?Seek@CxIOFile@@UAE_NJH@Z
+?Size@CxIOFile@@UAEJXZ
+?Tell@CxIOFile@@UAEJXZ
+?Write@CxIOFile@@UAEIPBXII@Z
+.?AVCxImageGIF@@
+.?AVCxImagePNG@@
+.?AVCxImageBMP@@
+.?AVCxImageTIF@@
+.PAD
+.PAX
+.?AVCxImageJPG@@
+4F> 
+aoB>"
+L7>(
+!0>,
+!0>,
+s">4
+s">4
+s">4
+x^j=|
+x^j=|
+x^j=|
+x^j=|
+n$Kx
+8&Kx
+>غT;E
+.?AVtype_info@@
+.?AVCObject@@
+.?AVCCmdTarget@@
+.?AVCWnd@@
+.?AVCFrameWnd@@
+.?AVCMainFrame@@
+.?AVCDialog@@
+.?AVCAboutDlg@@
+.?AVCWinThread@@
+.?AVCWinApp@@
+.?AVCOECakeApp@@
+.?AVCDocument@@
+.?AVCOECakeDoc@@
+.?AVCView@@
+.?AVCOECakeView@@
+OE-CAKE Files (*.oec)|*.oec|All Files (*.*)|*.*||
+OE-CAKE Files (*.oec)|*.oec|All Files (*.*)|*.*||
+Image Files (*.bmp;*.jpg;*.gif;*.png;*.tif;*.tiff)|*.bmp; *.jpg; *.gif; *.png; *.tif; *.tiff|All Files (*.*)|*.*||
+Image Files (*.bmp;*.jpg;*.gif;*.png;*.tif;*.tiff)|*.bmp; *.jpg; *.gif; *.png; *.tif; *.tiff|All Files (*.*)|*.*||
+Image Files (*.bmp;*.jpg;*.gif;*.png;*.tif;*.tiff)|*.bmp; *.jpg; *.gif; *.png; *.tif; *.tiff|All Files (*.*)|*.*||
+Image Files (*.bmp;*.jpg;*.gif;*.png;*.tif;*.tiff)|*.bmp; *.jpg; *.gif; *.png; *.tif; *.tiff|All Files (*.*)|*.*||
+Image Files (*.bmp;*.jpg;*.gif;*.png;*.tif;*.tiff)|*.bmp; *.jpg; *.gif; *.png; *.tif; *.tiff|All Files (*.*)|*.*||
+.?AVObject@Casual@OE@@
+.?AVElement@Casual@OE@@
+.?AVParticleBeat@Casual@OE@@
+.?AVParticleBeatImplements@Casual@OE@@
+.?AVParticleBuilder@Casual@OE@@
+.?AVexception@std@@
+.?AVout_of_range@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVbad_alloc@std@@
+.?AVParticleData@Casual@OE@@
+.?AVParticleEffect@Casual@OE@@
+.?AVParticleRenderer@Casual@OE@@
+.?AVParticleResponder@Casual@OE@@
+.?AVParticleSimulator@Casual@OE@@
+.?AVGLShader@Casual@OE@@
+.?AVShader@Casual@OE@@
+.?AVTexture@Casual@OE@@
+.?AVCxImage@@
+.?AVCxMemFile@@
+.?AVCxIOFile@@
+.?AVCxFile@@
+.?AVFloatClass@Casual@OE@@
+.?AVIntClass@Casual@OE@@
+.?AVFalseObject@Casual@OE@@
+.?AVTrueObject@Casual@OE@@
+.?AVNullObject@Casual@OE@@
+.?AVStringObject@Casual@OE@@
+ @   
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwtGwwwwwwwwwwwwwwwtDDDDw
+wwwwp
+wwwwp
+wwp3
+wwGtwDwwwwwtDDDDw
+pwwwwppwwww
+wwwp
+3333
+wwGttwGwwwwt
+p884
+wwwp
+33330wp3
+wwGttwGwwwwt
+wwwp
+wwwwp
+3333
+wwtDtwGwp
+p884
+wwwwp
+33330p333333
+wwwttDwwp
+pwww
+wwwwp
+wwwt
+wwwp
+p884
+wwwwpppwww
+wwwwp
+OGp888888
+wwwp
+wwwww
+wwwp
+wwwwwww
+wwwwwww
+wwwwwp
+wwwp
+袈袈袈袈袈袈袈袈
+wwww
+wwww
+袈袈袈袈袈袈袈袈
+=10!8,+
+6B:&
+웅엿업엿웅
+FFF$
+svte
+엿엄엿업
+yxyg
+CFDblll
+N>>_
+(>/-nnn
++++&
+***%iij
+;:AKfef
+5558
+*$H+,+/)
+>OCBftkz
+mrovdhe_g^^[fSRdv`^
+eOMaC.-/
+ >*3|
+A<<'
+엿웅엿업엿웅엿웅엿업엿웅엿업엿업엿업엿업엿업엿업엿업엿업엿업엿웅
+웅엿업엿웅엿업엿업엿웅
+웅엿업엿업
+엿업엿업엿업엿업엿업엿업엿업엿업엿웅엿업
+gjh[
+웅엿웅엿업
+llm[
+웅엿업엿엄
+엄엿업엿업
+웅엿웅엿웅
+DIE1
+엿업엿업
+엄엿엄엿업엿업
+OOO3q{t
+;oJxh}o
+w52v)4,,oop
+?A?Xooo
+?;;O
+)3++ppp
+(('#mmm
+	[Z[
+***%```
+MLN|nno
+95KN
+-,0-FDNnSI
+??@U!!!
+5Q>Yj
+mLJ}I65;
+D+Hn
+GDD1
+:":`
+???(
+엿웅엿업엿업엿업엿웅엿업엿업엿웅엿업엿업엿업엿업엿업엿웅엿웅엿업엿업엿업엿업엿업엿업엿업엿웅
+엿웅엿업엿웅엿업엿웅
+웅엿웅엿업엿업엿업엿웅엿웅
+웅엿웅엿웅엿웅엿업엿업엿업엿업
+   
+엿업엿업
+웅엿웅엿웅엿업엿업엿웅
+웅엿업엿업엿업엿웅
+엿업엿업엿엄엿업엿업엿업엿업엿업엿업엿업엿업엿업엿업엿업엿업
+웅엿웅엿업엿웅엿업엿업엿업엿업
+엿업엿업
+ILJ9
+엄엿업엿업엿업엿업엿업엿
+MMM8
+엿업엿업
+웅엿업엿웅엿업
+MSOC
+엿업엿업엿업
+엿엄엿업엿업엿업엿업
+웅엿웅엿업
+WWWC
+엿웅엿업엿업엿엄
+엿업엿업엿업엿업
+웅엿업엿웅
+엿업엿업엿업
+엿업엿업엿웅엿업
+?LC@
+엿엄엿웅
+XVVE]rd~
+7pHwT
+r41s%J09e
+L#!7
+
+pxr
+132:qqq
+8))2
+-6/8qrq
+*)))
+$,&%ppp
+???Vqpq
+***(
+	MMM{qqq
+灰滿潮滿潭
+888B
+
+EDHff\
+.../
+//12]\\
+A>Pc
+<;?QYW`
+KKKu))*'
+PNG
+
+IHDR
+IDATx
+/,hH
+Qf*{
+ra=_
+-3333s!
+2333
+Y  dfo
+2-S-N
+zO/AP
+/000
+|1$7]&
+D(%L
+`QGX
+ar:db*bz
+LUQME
+T.399
+	P]+B
+e',z
+J /J
+p9*p
+#-2D|
+ d#P
+p~zq1:
+fgjRJ
+s!PH
+l%):
+%z4$:
+IEND
+裸袈袈袈袈袈
+裸袈袈袈袈袈
+wwwww
+&File
+&New	Ctrl+N
+&Open...	Ctrl+O
+&Save	Ctrl+S
+Save &As...
+Recent File
+E&xit
+&Edit
+&Undo	Ctrl+Z
+&View
+考Basic Menu
+&Help
+&About OECake...
+About OE-CAKE+
+MS Shell Dlg
+OE-CAKE+ Version 1.1.4
+Based on OE-CAKE! Version 1.1.2b
+Copyright (C) 2008 Prometech Software, Inc.
+ĀMS Shell Dlg
+Eraser
+Water
+Wall
+刀椀最椀
+String
+Elastic
+Brittle
+刀椀最椀
+d Axis
+Mochi
+Rice
+Powder
+Viscous
+Tensile
+Dense
+Light
+Fuel
+Fire
+Heater
+Cooler
+Inflow
+Outflow
+User's
+Physics
+Pause
+Drain
+Splash
+Bubble
+Gravity
+msctls_trackbar32
+Pouring
+msctls_trackbar32
+Clear
+Undo
+Color
+BG Color
+Scene
+Brush
+Pencil
+Shape
+Bucket
+Move
+Eraser
+Replace
+Spuit
+Arrow
+Slice
+Tool
+Style:
+&ĈdX
+Load Foreground
+Load Background
+Load Fire Texture
+Load Splash Texture
+Load Bubble Texture
+Unload
+vĥ%
+Unload
+vĴ%
+Unload
+vŃ%
+Unload
+vŒ%
+Unload
+Graphics
+MS Shell Dlg
+&New 
+Cancel
+&Help
+MS Shell Dlg
+0OECake
+
+OECake
+
+
+OECake.Document
+OECake.Document
+OE-CAKE!
+Ready
+Create a new document
+New
+Open an existing document
+Open
+Close the active document
+Close
+Save the active document
+Save0Save the active document with a new name
+Save As
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Open this document
+Erase the selection
+Erase
+Erase everything
+Erase All3Copy the selection and put it on the Clipboard
+Copy1Cut the selection and put it on the Clipboard
+Cut
+Find the specified text
+Find
+Insert Clipboard contents
+Paste
+Repeat the last action
+Repeat1Replace specific text with different text
+Replace%Select the entire document
+Select All
+Undo the last action
+Undo&Redo the previously undone action
+Redo
+(Split the active window into panes
+Split
+?Display program information, version number and copyright
+About4Quit the application; prompts to save documents
+Exit
+(Switch to the next window pane
+Next Pane5Switch back to the previous window pane
+Previous Pane
+SCRL
+'Show or hide the toolbar
+Toggle ToolBar,Show or hide the status bar
+Toggle StatusBar
+Change the window size
+Change the window position
+Reduce the window to an icon
+Enlarge the window to full size"Switch to the next document window&Switch to the previous document window9Close the active window and prompts to save the documents
+!Restore the window to normal size
+Activate Task List
+Open
+Save As
+All Files (*.*)
+Untitled
+an unnamed file
+&Hide
+No error message is available.'An unsupported operation was attempted.$A required resource was unavailable.
+Out of memory.
+An unknown error has occurred.$An invalid argument was encountered.
+Invalid filename.
+Failed to open document.
+Failed to save document.
+Save changes to %1? Failed to create empty document.
+The file is too large to open.
+Could not start print job.
+Failed to launch help.
+Internal application error.
+Command failed.)Insufficient memory to perform operation.PSystem registry entries have been removed and the INI file (if any) was deleted.BNot all of the system registry entries (or INI file) were removed.FThis program requires the file %s, which was not found on this system.tThis program is linked to the missing export %s in the file %s. This machine may have an incompatible version of %s.
+Please enter an integer.
+Please enter a number.*Please enter an integer between %1 and %2.(Please enter a number between %1 and %2.(Please enter no more than %1 characters.
+Please select a button.*Please enter an integer between 0 and 255. Please enter a positive integer. Please enter a date and/or time.
+Please enter a currency.
+Please enter a GUID.
+Please enter a time.
+Please enter a date.
+Unexpected file format.V%1
+Cannot find this file.
+Please verify that the correct path and file name are given.
+Destination disk drive is full.5Unable to read from %1, it is opened by someone else.AUnable to write to %1, it is read-only or opened by someone else..An unexpected error occurred while reading %1..An unexpected error occurred while writing %1.
+%1: %2
+Continue running script?
+Dispatch exception: %1
+#Unable to read write-only property.#Unable to write read-only property.
+#Unable to load mail system support.
+Mail system DLL is invalid.!Send Mail failed to send message.
+No error occurred.-An unknown error occurred while accessing %1.
+%1 was not found.
+%1 contains an invalid path.=%1 could not be opened because there are too many open files.
+Access to %1 was denied..An invalid file handle was associated with %1.<%1 could not be removed because it is the current directory.6%1 could not be created because the directory is full.
+Seek failed on %15A hardware I/O error was reported while accessing %1.0A sharing violation occurred while accessing %1.0A locking violation occurred while accessing %1.
+Disk full while accessing %1..An attempt was made to access %1 past its end.
+No error occurred.-An unknown error occurred while accessing %1./An attempt was made to write to the reading %1..An attempt was made to access %1 past its end.0An attempt was made to read from the writing %1.
+%1 has a bad format."%1 contained an unexpected object. %1 contains an incorrect schema.
+pixels
+Uncheck
+Check
+Mixed
+VS_VERSION_INFO
+StringFileInfo
+040904e4
+CompanyName
+Prometech Software, Inc.
+FileDescription
+OE-CAKE!
+FileVersion
+1.0.0.1
+InternalName
+OECake.exe
+LegalCopyright
+(c) 2008 Prometech Software, Inc.  All rights reserved.
+OriginalFilename
+OECake.exe
+ProductName
+OE-CAKE!
+ProductVersion
+1.0.0.1
+VarFileInfo
+Translation
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version="6.0.0.0" processorArchitecture="x86" publicKeyToken="6595b64144ccf1df" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC80.CRT" version="8.0.50727.762" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC80.MFC" version="8.0.50727.762" processorArchitecture="x86" publicKeyToken="1fc8b3b9a1e18e3b" />
+    </dependentAssembly>
+  </dependency>
+</assembly>
